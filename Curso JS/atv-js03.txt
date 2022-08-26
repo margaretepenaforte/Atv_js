@@ -3,4 +3,5 @@ Login utilizando os seguintes campos:
 Usuário: (digite seu e-mail)
 Senha: (digite a senha)
 
-Rede social para estudantes o site (https://brainly.com.br) do tipo Perguntas e Respostas para todas as matérias e que podem ser encontrado vários tipos de Dados do tipo Lógico, string, float, number, boolean. 
+Rede social para estudantes o site (https://brainly.com.br) do tipo Perguntas e Respostas.
+Nele podem ser encontrados vários tipos de Dados, tipo Lógico, string, float, number, boolean. 
